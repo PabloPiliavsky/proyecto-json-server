@@ -1,0 +1,59 @@
+{
+  "profesores": [
+    {
+      "nombre": "Pablo",
+      "apellido": "Piliavsky",
+      "materias": [
+        {
+          "nombre": "matematica"
+        },
+        {
+          "nombre": "fisica"
+        },
+        {
+          "nombre": "programacion"
+        }
+      ],
+      "id": "742f"
+    },
+    {
+      "id": "299a",
+      "usuario": "lucas",
+      "password": "lucas2024"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Perez",
+      "promedio": 8.2,
+      "id": "b110"
+    },
+    {
+      "nombre": "Rodrigo",
+      "apellido": "Lopez",
+      "promedio": 7.5,
+      "id": "6d2b"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "matematica",
+      "duracion": 8,
+      "dificultad": "intermedia",
+      "id": "c7e0"
+    },
+    {
+      "nombre": "fisica",
+      "duracion": 6,
+      "dificultad": "intermedia",
+      "id": "b761"
+    },
+    {
+      "nombre": "programacion",
+      "duracion": 18,
+      "dificultad": "alta",
+      "id": "88a6"
+    }
+  ]
+}
